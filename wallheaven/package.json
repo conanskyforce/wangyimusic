@@ -1,0 +1,16 @@
+{
+  "name": "wallheaven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "tiktok-api": "^0.4.1"
+  }
+}
